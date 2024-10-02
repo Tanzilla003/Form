@@ -1,0 +1,37 @@
+.formtext{
+    text-align: center;
+    font-size: x-large;
+} 
+.finput{
+    height: 5vh;
+    width:   90vw ;
+    margin: 15px 20px;
+}
+.gap{
+    margin-left: 0px;
+    margin-top: 15px;
+    }
+    .tt{
+        width: 60vh;
+        background-color: #3975EA;
+        color: white;
+         margin-left: 20px;
+         margin-top: 20px;
+         border: none;
+          padding: 7px;
+          margin-bottom: 30px;
+          font-size: 15px;
+    }
+    .oo{
+        color: #3975EA;
+        margin-left: 162px;
+        font-size: 20px;
+        text-decoration: none;
+    }
+    .tt:hover{
+        background-color: black;
+    }
+
+    .finput:hover{
+        background-color: rgb(100, 172, 172);
+    }
